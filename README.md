@@ -49,7 +49,7 @@
 | **Languages** | Java, Python, C#, JavaScript, HTML, CSS, C++ |
 | **Frameworks** | Spring Boot, React, Unity |
 | **Cloud** | AWS (EC2, S3, Lambda, RDS, CloudFront) |
-| **Databases** | MySQL, SQLite |
+| **Databases** | MySQL, SQLite, PostGreSQL |
 | **Tools** | Git, Docker, Eclipse, VS Code |
 
 ---
